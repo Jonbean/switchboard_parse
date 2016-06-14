@@ -4,12 +4,11 @@ NXT Switchboard xml parsing script
 ----------------------------------
 Description:
 
-file_list.txt is the file name list for naming usage
+file_list.txt is a list of file indices.
 It is obtained by running filelist.py script.
 
-filelist.py read through "terminal" diretory to retrieve
-sw2008 format file names since "terminal" directory 
-contains most dialogue scripts.
+filelist.py read through "terminal" folder to read the 
+file indices out.
 
 parse_all.py
 This is the main script to retrieve plain text information
