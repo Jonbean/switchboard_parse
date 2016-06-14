@@ -22,7 +22,6 @@ parse_all.sh
 This is the bash script to run parse_all.py through all 
 dialogue files, and list result in plain text with the index
 of the dialogue(e.g. sw2012)
-----------------------------------
 
 ----------------------------------
 How to run:
