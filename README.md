@@ -41,3 +41,8 @@ result files.
 
 ----------------------------------
 
+Data split:
+The whole dataset will be divided into 3 parts ,namely training set
+valid set and test set, according to The NXT-format Switchboard Corpus
+by Sasha Cohoun etc.
+
