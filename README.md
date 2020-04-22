@@ -46,3 +46,6 @@ The whole dataset will be divided into 3 parts ,namely training set
 valid set and test set, according to The NXT-format Switchboard Corpus
 by Sasha Cohoun etc.
 
+----------------------------------
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This repo is under MIT licence
